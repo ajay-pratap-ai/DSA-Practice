@@ -10,3 +10,4 @@
 8. Sort an Array using Merge Sort(LeetCode #912)
 9. Search in Rotated Sorted Array II (LeetCode #81)
 10. Single Element in a Sorted Array (LeetCode #540)
+11. Peak Index in a Mountain Array (LeetCode #852)
