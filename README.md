@@ -11,3 +11,4 @@
 9. Search in Rotated Sorted Array II (LeetCode #81)
 10. Single Element in a Sorted Array (LeetCode #540)
 11. Peak Index in a Mountain Array (LeetCode #852)
+12. Median of Two Sorted Arrays (LeetCode #4)
