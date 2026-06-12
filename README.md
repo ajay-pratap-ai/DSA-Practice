@@ -12,3 +12,4 @@
 10. Single Element in a Sorted Array (LeetCode #540)
 11. Peak Index in a Mountain Array (LeetCode #852)
 12. Median of Two Sorted Arrays (LeetCode #4)
+13. Word Search (LeetCode #79)
