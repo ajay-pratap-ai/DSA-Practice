@@ -16,3 +16,4 @@
 14. Longest Happy Prefix (LeetCode #1392)
 15. Palindrome Number (LeetCode #9)
 16. Remove Element (LeetCode #27)
+17. Majority Element (LeetCode #169)
