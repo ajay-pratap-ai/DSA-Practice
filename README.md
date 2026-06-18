@@ -18,3 +18,4 @@
 16. Remove Element (LeetCode #27)
 17. Majority Element (LeetCode #169)
 18. Roman to Integer (LeetCode #13)
+19. Length of Last Word (LeetCode #58)
