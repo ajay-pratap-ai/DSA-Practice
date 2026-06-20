@@ -20,3 +20,4 @@
 18. Roman to Integer (LeetCode #13)
 19. Length of Last Word (LeetCode #58)
 20. Pow(x, n) (LeetCode #50)
+21. Search Insert Position (LeetCode #35)
