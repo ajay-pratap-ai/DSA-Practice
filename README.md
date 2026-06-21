@@ -21,3 +21,4 @@
 19. Length of Last Word (LeetCode #58)
 20. Pow(x, n) (LeetCode #50)
 21. Search Insert Position (LeetCode #35)
+22. Power of Two (LeetCode #231)
