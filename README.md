@@ -22,3 +22,4 @@
 20. Pow(x, n) (LeetCode #50)
 21. Search Insert Position (LeetCode #35)
 22. Power of Two (LeetCode #231)
+23. Power of Two (LeetCode #231)
