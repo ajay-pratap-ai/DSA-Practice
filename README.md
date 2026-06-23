@@ -23,3 +23,4 @@
 21. Search Insert Position (LeetCode #35)
 22. Power of Two (LeetCode #231)
 23. Power of Three (LeetCode #326)
+24. Find the Index of the First Occurrence in a String (LeetCode #28)
