@@ -26,3 +26,4 @@
 24. Find the Index of the First Occurrence in a String (LeetCode #28)
 25. Insert Interval (LeetCode #57)
 26. Remove Duplicates from Sorted Array (LeetCode #26)
+27. Valid Parentheses (LeetCode #20)
