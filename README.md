@@ -29,3 +29,4 @@
 27. Valid Parentheses (LeetCode #20)
 28. Permutations (LeetCode #46)
 29. Subsets (LeetCode #78)
+30. Palindrome Partitioning (LeetCode #131)
