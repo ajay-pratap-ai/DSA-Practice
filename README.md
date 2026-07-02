@@ -32,3 +32,4 @@
 30. Palindrome Partitioning (LeetCode #131)
 31. Maximum Subarray (LeetCode #53)
 32. Largest Number (LeetCode #179)
+33. Sqrt(x) (LeetCode #69)
