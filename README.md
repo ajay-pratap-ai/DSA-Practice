@@ -34,3 +34,4 @@
 32. Largest Number (LeetCode #179)
 33. Sqrt(x) (LeetCode #69)
 34. Triangle (LeetCode #120)
+35. Longest Consecutive Sequence (LeetCode #128)
