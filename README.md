@@ -35,3 +35,4 @@
 33. Sqrt(x) (LeetCode #69)
 34. Triangle (LeetCode #120)
 35. Longest Consecutive Sequence (LeetCode #128)
+36. Contains Duplicate (LeetCode #217)
