@@ -38,3 +38,4 @@
 36. Contains Duplicate (LeetCode #217)
 37. Word Break (LeetCode #139)
 38. Decode Ways (LeetCode #91)
+39. Word Pattern (LeetCode #290)
