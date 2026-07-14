@@ -43,3 +43,4 @@
 41. 3Sum Closest (LeetCode #16)
 42. Permutations II (LeetCode #47)
 43. Plus One (LeetCode #66)
+44. Happy Number (LeetCode #202)
