@@ -45,3 +45,4 @@
 43. Plus One (LeetCode #66)
 44. Happy Number (LeetCode #202)
 45. Add Binary (LeetCode #67)
+46. Sum of GCD of Formed Pairs (LeetCode #3867)
