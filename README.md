@@ -47,3 +47,4 @@
 45. Add Binary (LeetCode #67)
 46. Sum of GCD of Formed Pairs (LeetCode #3867)
 47. Sorted GCD Pair Queries (LeetCode #3312)
+48. Find Greatest Common Divisor of Array (LeetCode #1979)
