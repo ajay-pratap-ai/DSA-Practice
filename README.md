@@ -50,3 +50,4 @@
 48. Find Greatest Common Divisor of Array (LeetCode #1979)
 49. Smallest Subsequence of Distinct Characters (LeetCode #1081)
 50. Shift 2D Grid (LeetCode #1260)
+51. N-Queens (LeetCode #51)
