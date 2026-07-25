@@ -54,3 +54,4 @@
 52. Intersection of two arrays (Leetcode #349)
 53. Climbing Stairs (Leetcode #70)
 54. Swap Nodes ( Leetcode #24 )
+55. Maximum Product of Two Digits (LeetCode #3536)
