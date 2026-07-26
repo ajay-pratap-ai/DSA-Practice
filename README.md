@@ -55,3 +55,4 @@
 53. Climbing Stairs (Leetcode #70)
 54. Swap Nodes ( Leetcode #24 )
 55. Maximum Product of Two Digits (LeetCode #3536)
+56. Maximum Product Of three numbers ( Leetcode #628 )
