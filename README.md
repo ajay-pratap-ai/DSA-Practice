@@ -56,3 +56,4 @@
 54. Swap Nodes ( Leetcode #24 )
 55. Maximum Product of Two Digits (LeetCode #3536)
 56. Maximum Product Of three numbers ( Leetcode #628 )
+57. Maximum Product of Two Elements in an Array ( Leetcode #1464 )
