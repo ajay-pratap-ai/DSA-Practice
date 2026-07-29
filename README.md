@@ -58,3 +58,4 @@
 56. Maximum Product Of three numbers ( Leetcode #628 )
 57. Maximum Product of Two Elements in an Array ( Leetcode #1464 )
 58. Smallest Palindromic Rearrangement I (LeetCode #3517 )
+59. Smallest Palindromic Rearrangement II ( LeetCode #3518 )
