@@ -59,4 +59,4 @@
 57. Maximum Product of Two Elements in an Array ( Leetcode #1464 )
 58. Smallest Palindromic Rearrangement I (LeetCode #3517 )
 59. Smallest Palindromic Rearrangement II ( LeetCode #3518 )
-60  Minimum Number of Pushes to Type Word I ( LeetCode #3014 )
+60. Minimum Number of Pushes to Type Word I ( LeetCode #3014 )
