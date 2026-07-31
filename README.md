@@ -60,3 +60,4 @@
 58. Smallest Palindromic Rearrangement I (LeetCode #3517 )
 59. Smallest Palindromic Rearrangement II ( LeetCode #3518 )
 60. Minimum Number of Pushes to Type Word I ( LeetCode #3014 )
+61. Minimum Number of Pushes to Type Word II ( LeetCode #3016 )
