@@ -66,3 +66,4 @@
 64. Divide Two numbers ( leetcode #29 )
 65. Find Missing Elements ( Leetcode #3731)
 66. Longest Palindrome ( Leetcode #5 )
+67. Smallest Divisible Digit Product I ( LeetCode #3345 )
